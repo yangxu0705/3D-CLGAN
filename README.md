@@ -16,6 +16,10 @@ CuDNN: 8.1
 
 Mayavi
 
+# Detailed Information
+The code and more details of 3D-CLGAN are in folder “1”.
+
+
 
 # Data
 
